@@ -1,11 +1,16 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package photon
 
 import (
 	"net/http"
 
-	"github.com/as27/govuegui"
-	"github.com/as27/govuegui/gui/photon/src/pkg/photoncss"
-	"github.com/as27/govuegui/gui/photon/src/pkg/photonwoff"
+	"github.com/sniperkit/snk.fork.govuegui"
+	"github.com/sniperkit/snk.fork.govuegui/gui/photon/src/pkg/photoncss"
+	"github.com/sniperkit/snk.fork.govuegui/gui/photon/src/pkg/photonwoff"
 )
 
 var Template = govuegui.GuiTemplate{
@@ -41,7 +46,7 @@ var Template = govuegui.GuiTemplate{
 		<h1 class="title">
         <strong>govuigui</strong> 
         by <a href="https://as27.github.io/" target="_blank">Andreas Schr&ouml;pfer</a>
-      | <a href="https://github.com/as27/govuegui" target="_blank">govuigui github page</a>
+      | <a href="https://github.com/sniperkit/snk.fork.govuegui" target="_blank">govuigui github page</a>
 		</h1></footer>
         </div>
     </body>

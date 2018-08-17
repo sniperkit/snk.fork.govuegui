@@ -1,7 +1,12 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package govuegui
 
 import (
-	"github.com/as27/govuegui/vuetemplate"
+	"github.com/sniperkit/snk.fork.govuegui/vuetemplate"
 )
 
 type VueComponent struct {

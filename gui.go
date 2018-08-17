@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package govuegui
 
 import (
@@ -5,7 +10,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/as27/govuegui/storage"
+	"github.com/sniperkit/snk.fork.govuegui/storage"
 )
 
 // Gui groups different forms together.

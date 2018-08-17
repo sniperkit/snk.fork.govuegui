@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Package govuegui provides a simple gui, which can be used via a
 // http server inside the browser. There are three different elements
 // for building the gui. Every level gets a identifier as a string.

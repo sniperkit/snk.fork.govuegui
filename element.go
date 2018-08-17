@@ -1,6 +1,13 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package govuegui
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // Element represents a simple html element. The element is not defined directly. It always
 // is initialized via a Box type.

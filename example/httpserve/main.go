@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -5,8 +10,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/as27/govuegui"
-	"github.com/as27/govuegui/gui/bulma"
+	"github.com/sniperkit/snk.fork.govuegui"
+	"github.com/sniperkit/snk.fork.govuegui/gui/bulma"
 )
 
 var logrHead = [][]string{

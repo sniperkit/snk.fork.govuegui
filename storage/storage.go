@@ -1,4 +1,9 @@
 /*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
+/*
 Package storage defines a object, which can be exported and imported
 as a JSON object. The data is stored with the type information, so inside
 Go the type logic can be used. */

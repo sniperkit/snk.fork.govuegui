@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /*Package vuetemplate allows to serve vue.js apps over a go api.
 The abstraction works over different elements:
  * JSType defines the different statements, which are used inside JS

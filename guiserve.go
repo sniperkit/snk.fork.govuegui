@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package govuegui
 
 import (
@@ -9,9 +14,10 @@ import (
 	"net/http"
 	"text/template"
 
-	"github.com/as27/govuegui/vuetemplate"
 	"github.com/gorilla/mux"
 	"github.com/gorilla/websocket"
+
+	"github.com/sniperkit/snk.fork.govuegui/vuetemplate"
 )
 
 // ServeHTTP implements the http handler interface

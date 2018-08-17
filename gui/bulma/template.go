@@ -1,12 +1,18 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package bulma
 
 import (
 	"net/http"
 
 	"github.com/as27/golib/css/bulma"
-	"github.com/as27/govuegui"
-	"github.com/as27/govuegui/gui/bulma/src/pkg/fontawesomecss"
-	"github.com/as27/govuegui/gui/bulma/src/pkg/fontawesomewoff"
+
+	"github.com/sniperkit/snk.fork.govuegui"
+	"github.com/sniperkit/snk.fork.govuegui/gui/bulma/src/pkg/fontawesomecss"
+	"github.com/sniperkit/snk.fork.govuegui/gui/bulma/src/pkg/fontawesomewoff"
 )
 
 var Template = govuegui.GuiTemplate{
@@ -32,7 +38,7 @@ var Template = govuegui.GuiTemplate{
         <strong>govuigui</strong> 
         by <a href="https://as27.github.io/" target="_blank">Andreas Schr&ouml;pfer</a>
       </p>
-      <p><a href="https://github.com/as27/govuegui" target="_blank">govuigui github page</a></p>
+      <p><a href="https://github.com/sniperkit/snk.fork.govuegui" target="_blank">govuigui github page</a></p>
     </div>
   </div>
 </footer>

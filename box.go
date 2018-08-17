@@ -1,6 +1,13 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package govuegui
 
-import "fmt"
+import (
+	"fmt"
+)
 
 // Box is the way elements are grouped. Every Element
 type Box struct {

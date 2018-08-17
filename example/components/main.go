@@ -1,12 +1,16 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
 	"bytes"
-
 	"log"
 
-	"github.com/as27/govuegui"
-	"github.com/as27/govuegui/gui/bulma"
+	"github.com/sniperkit/snk.fork.govuegui"
+	"github.com/sniperkit/snk.fork.govuegui/gui/bulma"
 )
 
 var gui = govuegui.NewGui(bulma.Template)

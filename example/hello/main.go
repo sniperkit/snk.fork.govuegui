@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -5,8 +10,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/as27/govuegui"
-	"github.com/as27/govuegui/gui/photon"
+	"github.com/sniperkit/snk.fork.govuegui"
+	"github.com/sniperkit/snk.fork.govuegui/gui/photon"
 )
 
 func main() {
